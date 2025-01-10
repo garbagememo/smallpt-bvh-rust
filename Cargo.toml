@@ -1,0 +1,10 @@
+[package]
+name = "rust-smallpt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+getopts = "0.2.21"
+image = "0.25.5"
+rand = "*"
+rayon = "*"
